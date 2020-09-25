@@ -7,7 +7,7 @@ SDK is a Golang library for Decrypt and Encrypt a String.
 Use the package manager to install SDK.
 
 ```bash
-go get https://github.com/inc-backend/sdk
+go get https://github.com/dangvuongdung/sdk
 ```
 
 ## Usage
@@ -16,7 +16,7 @@ go get https://github.com/inc-backend/sdk
 package main
 
 import (
-	sdk "github.com/inc-backend/sdk/encryption"
+	sdk "github.com/dangvuongdung/sdk/encryption"
 	"fmt"
 )
 
